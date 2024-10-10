@@ -1,0 +1,5 @@
+{
+  "ERC721PresetName": "MyArtCollection",
+  "ERC721PresetSymbol": "MAC",
+  "ERC721PresetBaseURI": "https://zenidrop.com/metadata/"
+}
